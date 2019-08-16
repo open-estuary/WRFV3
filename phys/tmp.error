@@ -1,0 +1,15 @@
+module_cu_g3.f90:3106:41:
+
+                    call random_seed (PUT=seed)
+                                         1
+Error: Size of ‘put’ argument of ‘random_seed’ intrinsic at (1) too small (12/33)
+module_cu_g3.f90:3195:41:
+
+                    call random_seed (PUT=seed)
+                                         1
+Error: Size of ‘put’ argument of ‘random_seed’ intrinsic at (1) too small (12/33)
+module_cu_g3.f90:3210:41:
+
+                    call random_seed (PUT=seed)
+                                         1
+Error: Size of ‘put’ argument of ‘random_seed’ intrinsic at (1) too small (12/33)
